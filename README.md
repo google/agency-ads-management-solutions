@@ -1,0 +1,1 @@
+Gathers various non-official Google solutions gathered around the theme of managing Google Ads account in scale.
