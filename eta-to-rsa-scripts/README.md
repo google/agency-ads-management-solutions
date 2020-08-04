@@ -19,7 +19,6 @@ Generate RSAs from existing ETAs
         * SPREADSHEET_ID. The ID of the Google sheet in Step 1.
     - Click AUTHORIZE and confirm authorization.
     - Click the Save button to backup your changes.
-    - IMPORTANT: Do NOT ‘Preview’ the script
     - Click Close to go back to the Scripts library.
 
 4. Schedule the GenerateRSA script to run hourly. If you have many accounts under your MCC, it may take the script several runs to process all the accounts.
